@@ -4,7 +4,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💂‍♂️ Currently reviewing web technologies
-<p>&nbsp;</p>
+- 🐮 moo moo
+
 <p>&nbsp;</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,6 +14,7 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 ### Github Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iuwin&hide_border=true&theme=dracula" alt="iuwin" /></p>
 
