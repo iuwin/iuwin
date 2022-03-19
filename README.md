@@ -1,7 +1,10 @@
-<h1 align="center">Hello 👶, I'm Erwin</h1>
+<h1 align="center">Hello, I'm Erwin</h1>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 💂‍♂️ Currently reviewing web technologies
+- 🐮 moo moo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
