@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💻 Current project : [dict_ams](https://github.com/andydevs69420/dict_ams)
+- 💻 Current project: [dict_ams](https://github.com/andydevs69420/dict_ams)
 - 🐧 Penguin emoji
 - 📧 amper.erwin27@gmail.com
 <p>&nbsp;</p>
