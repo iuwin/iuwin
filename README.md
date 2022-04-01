@@ -5,6 +5,7 @@
 - 💻 Current project: [dict_ams](https://github.com/andydevs69420/dict_ams)
 - 🐶 Dog emoji
 - 📧 amper.erwin27@gmail.com
+- 🔮 [Stack Overflow](https://stackoverflow.com/users/11834230)
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
