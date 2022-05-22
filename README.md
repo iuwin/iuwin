@@ -11,9 +11,6 @@
 <p>&nbsp;</p>
 
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <!---<p>&nbsp;</p>
 <p>&nbsp;</p>
 <h3 align="center"> GitHub Stats </h3>
