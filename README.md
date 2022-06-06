@@ -4,7 +4,7 @@
 
 
 - 💻 Current project: [dict_ams](https://github.com/andydevs69420/dict_ams)
-- :milky_way: Currently learning data science
+- :milky_way: Currently learning Data Science
 - 🐶 Dog emoji
 - 📧 amper.erwin27@gmail.com
 <p>&nbsp;</p>
