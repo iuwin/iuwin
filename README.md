@@ -4,7 +4,7 @@
 
 
 - 💻 Current project: [dict_ams](https://github.com/andydevs69420/dict_ams)
-- :books: Currently learning **MERN stack**
+- :books: Currently learning **MERN**
 - 🐶 Dog emoji
 - 📧 amper.erwin27@gmail.com
 <p>&nbsp;</p>
