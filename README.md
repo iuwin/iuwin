@@ -6,7 +6,7 @@
 - 💻 Current project: [dict_ams](https://github.com/andydevs69420/dict_ams)
 - :snowboarder: Currently learning **MERN stack**
 - 🐶 Dog emoji
-- 📧 amper.erwin27@gmail.com
+- 📧 [stackoverflow](https://stackoverflow.com/users/11834230/erwin-amper)
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
