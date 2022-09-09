@@ -4,8 +4,7 @@
 
 
 - 🐶 Dog emoji
-- :milky_way: [stackoverflow](https://stackoverflow.com/users/11834230/erwin-amper)
-<p>&nbsp;</p>
+
 
 <p>&nbsp;</p>
 
