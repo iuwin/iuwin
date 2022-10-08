@@ -4,7 +4,7 @@
 
 
 - 🐶 Dog emoji
-- :computer: Side Project: [cornfield-dryer-web](https://github.com/Phnumbahwan/cornfield-dryer-web.git)
+
 
 
 <p>&nbsp;</p>
