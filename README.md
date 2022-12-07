@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F65B7D&center=true&vCenter=true&width=435&lines=Teaberry+Ice+Cream;Coffee+Jelly;Strawberry+Milk+and+Chocolate+Parfait" alt="Typing SVG" /></a>
-</p>
+
 
 
 
