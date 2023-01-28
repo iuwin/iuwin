@@ -1,10 +1,3 @@
- ```javascript
- //Person class here...
- 
- const user = new Person('Erwin Amper', 18, ['Software Development', 'UI/UX Design', 'Data Science']);
- ```
-
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
