@@ -1,16 +1,5 @@
  ```javascript
- class Person {
-    constructor(name, age, interests) {
-      this.name = name;
-      this.age = age;
-      this.interests = interests;
-    }
-	
-	  get age(){
-      return this.age;
-    }
-
- }
+ //Person class here...
  
  const user = new Person('Erwin Amper', 18, ['Software Development', 'UI/UX Design', 'Data Science']);
  ```
